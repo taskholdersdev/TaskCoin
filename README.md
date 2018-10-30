@@ -1,6 +1,6 @@
 # TaskCoin
 
-A cryptocurrency that uses an improved proof of work algorithm to create a stable more user friendly coin. TaskCoin limits the amount of control a single body can hold and prevents ASIC and GPU mining. 
+A cryptocurrency that is using a better Proof of Work and is preventing GPU and ASIC to mine
 
 #### Linux
 
